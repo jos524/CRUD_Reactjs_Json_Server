@@ -1,0 +1,11 @@
+{
+  "empregados": [
+    {
+      "id": 1,
+      "nome": "josesvaldo",
+      "email": "josesvaldo@gmail.com",
+      "telefone": "9970702369",
+      "ativo": true
+    }
+  ]
+}
